@@ -6,3 +6,9 @@ Event In A Box content for .NET Conf 2017 Local Events
 
 ## Find a local event
 Local events are being run all over the world in the month following .NET Conf. Find one near you here: https://www.dotnetconf.net/local-events
+
+## About this content
+The Event In A Box contains:
+* **Creative** - Creative assets to help you market and produce your event
+* **Decks** - Presentations you can use at your event
+* **HOLs** - Hands-on-Lab content (available soon) 

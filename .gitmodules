@@ -1,0 +1,3 @@
+[submodule "Workshops/dotnetcore-workshop"]
+	path = Workshops/dotnetcore-workshop
+	url = https://github.com/dotnet-presentations/dotnetcore-workshop

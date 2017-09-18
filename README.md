@@ -1,7 +1,11 @@
 # .NET Conf Local 2017
 Event In A Box content for .NET Conf 2017 Local Events
 
-> **Important note**: Workshop contents are added using [git submodules](https://github.com/blog/2104-working-with-submodules) which pull in content from other GitHub repositories. If cloning for the first time, use the command `git clone --recursive https://github.com/jongalloway/dotNETConf-2017-Event-In-A-Box`. If you've already cloned this repository and are missing workshop content, use `git submodule --init --recursive`.
+> **Important note**: Workshop contents are added using [git submodules](https://github.com/blog/2104-working-with-submodules) which pull in content from other GitHub repositories. 
+
+> If you are cloning for the first time, use the command `git clone --recursive https://github.com/jongalloway/dotNETConf-2017-Event-In-A-Box`. 
+
+>If you've already cloned this repository and are missing workshop content, use `git submodule --init --recursive`.
 
 ## Attend .NET Conf online
 .NET Conf is an online conference that's being live streamed from https://dotnetconf.net from September 19-21, 2017.

@@ -11,6 +11,6 @@ Local events are being run all over the world in the month following .NET Conf. 
 
 ## About this content
 The Event In A Box contains:
-* **Creative** - Creative assets to help you market and produce your event
-* **Decks** - Presentations you can use at your event
-* **Workshops** - Workshops and Hands-on-Lab content 
+* **[Creative](/Creative)** - Creative assets to help you market and produce your event
+* **[Decks](/Decks)** - Presentations you can use at your event
+* **[Workshops](/Workshops)** - Workshops and Hands-on-Lab content 
